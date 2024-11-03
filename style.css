@@ -191,14 +191,14 @@ float: left;
   background-color:rgba(0, 0, 0, 0.6); 
   border-radius: 10px;
   height: 100%;
-  width: 65%;
+  /* width: 65%; */
 }
 .sidebar {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: 100vh;
+  height: 400px;
 }
 
 .sidelist{
